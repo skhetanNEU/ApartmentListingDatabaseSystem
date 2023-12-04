@@ -1,0 +1,896 @@
+{
+  "address": {
+    "streetAddress": "101 California Ave UNIT 303",
+    "city": "Santa Monica",
+    "state": "CA",
+    "zipcode": "90403",
+    "neighborhood": null
+  },
+  "annualHomeownersInsurance": 3675,
+  "bathrooms": 1,
+  "bedrooms": 1,
+  "brokerId": null,
+  "brokerageName": "Sotheby's International Realty",
+  "building": null,
+  "buildingPermits": null,
+  "city": "Santa Monica",
+  "cityId": 26964,
+  "comingSoonOnMarketDate": null,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "badge_type": "Premier Agent",
+      "display_name": "Jenna Martini",
+      "zuid": "X1-ZUwewyy0xyl2bt_2xcn4",
+      "image_url": "https://photos.zillowstatic.com/h_n/ISm2ct3a5aai6w0000000000.jpg",
+      "phone": {
+        "areacode": "951",
+        "number": "9796",
+        "prefix": "307"
+      },
+      "rating_average": 5,
+      "recent_sales": 0,
+      "review_count": 39,
+      "zpro": null
+    }
+  ],
+  "contingentListingType": null,
+  "country": "USA",
+  "county": null,
+  "countyFIPS": "06037",
+  "countyId": 3101,
+  "currency": "USD",
+  "datePosted": "2022-05-19",
+  "dateSold": "2022-05-13",
+  "description": "Seller motivated, easy to show. Perfect Pied-a-terre! Ocean view, turn-key and ready to move in, this bright and spacious 1 bedroom condo provides everything you want to enjoy beach living. The inviting open floor plan leads to a very spacious private balcony with beautiful Ocean views, perfect for entertaining, or for a cozy evening enjoying your private Ocean view and stunning sunsets. Nicely upgraded, this is a great investment opportunity that provides good rental income, or for a first-time homebuyer looking for a low maintenance and lower HOA, or buyer who is looking to downsize. If you work from home, this building has high speed internet included and the Ocean breeze and Ocean view will make any job better. This full-service building features; Secured designated subterranean parking, 24hr doorman, guest parking, manager on site, heated saltwater pool, and ALL utilities are included in the HOA (water, gas, electricity, basic cable, high speed internet, earthquake insurance). This stress free coastal living lifestyle is sure to take your breath away. Conveniently located in the heart of Santa Monica, steps from the beach, famous 3rd street promenade, restaurants, shops, farmers market, Santa Monica Pier, are all within a very short distance. And easy access right down the incline,  and on to the freeway to Malibu or downtown LA. Location, location, location.",
+  "favoriteCount": 0,
+  "homeFacts": null,
+  "homeStatus": "RECENTLY_SOLD",
+  "homeType": "CONDO",
+  "imgSrc": "https://photos.zillowstatic.com/fp/8d345e8d2941511c0c133e41e2551e1c-p_d.jpg",
+  "isListedByOwner": false,
+  "latitude": 34.01864,
+  "listed_by": {
+    "agent_reason": 3,
+    "badge_type": "Listing Agent",
+    "business_name": "Sotheby's International Realty",
+    "display_name": "Karine Mailliez",
+    "zuid": "X1-ZU138h9tnkfpekp_aj9j7",
+    "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_n.png",
+    "phone": {
+      "areacode": "310",
+      "number": "7527",
+      "prefix": "279"
+    },
+    "rating_average": 0,
+    "recent_sales": 0,
+    "review_count": 0,
+    "zpro": true
+  },
+  "listingProvider": null,
+  "livingArea": 674,
+  "livingAreaUnits": "sqft",
+  "livingAreaValue": 674,
+  "longitude": -118.502754,
+  "mlsid": "21-764308",
+  "monthlyHoaFee": 1021,
+  "mortgageRates": {
+    "fifteenYearFixedRate": 5.57,
+    "thirtyYearFixedRate": 6.4,
+    "arm5Rate": 5.683
+  },
+  "nearbyHomes": [
+    {
+      "zpid": 20485685,
+      "price": 979000,
+      "currency": "USD",
+      "address": {
+        "streetAddress": "101 California Ave UNIT 101",
+        "city": "Santa Monica",
+        "state": "CA",
+        "zipcode": "90403"
+      },
+      "latitude": 34.01864,
+      "longitude": -118.502754,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=101+California+Ave%2C+Santa+Monica%2C+CA+90403&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gvQBVKqJBBq2KNJ-l4HGIRrRBUE="
+        }
+      ]
+    },
+    {
+      "zpid": 20485686,
+      "price": 1608600,
+      "currency": "USD",
+      "address": {
+        "streetAddress": "101 California Ave UNIT 102",
+        "city": "Santa Monica",
+        "state": "CA",
+        "zipcode": "90403"
+      },
+      "latitude": 34.01864,
+      "longitude": -118.502754,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3354faee7b56ed1f1b272a35face0dd8-p_c.jpg"
+        }
+      ]
+    },
+    {
+      "zpid": 20485687,
+      "price": 634100,
+      "currency": "USD",
+      "address": {
+        "streetAddress": "101 California Ave UNIT 103",
+        "city": "Santa Monica",
+        "state": "CA",
+        "zipcode": "90403"
+      },
+      "latitude": 34.01864,
+      "longitude": -118.502754,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c21ad2469252c86413e592f42cd5acd5-p_c.jpg"
+        }
+      ]
+    },
+    {
+      "zpid": 20485688,
+      "price": 732100,
+      "currency": "USD",
+      "address": {
+        "streetAddress": "101 California Ave UNIT 105",
+        "city": "Santa Monica",
+        "state": "CA",
+        "zipcode": "90403"
+      },
+      "latitude": 34.01864,
+      "longitude": -118.502754,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=101+California+Ave%2C+Santa+Monica%2C+CA+90403&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gvQBVKqJBBq2KNJ-l4HGIRrRBUE="
+        }
+      ]
+    },
+    {
+      "zpid": 20485689,
+      "price": 805000,
+      "currency": "USD",
+      "address": {
+        "streetAddress": "101 California Ave UNIT 106",
+        "city": "Santa Monica",
+        "state": "CA",
+        "zipcode": "90403"
+      },
+      "latitude": 34.01864,
+      "longitude": -118.502754,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=101+California+Ave%2C+Santa+Monica%2C+CA+90403&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gvQBVKqJBBq2KNJ-l4HGIRrRBUE="
+        }
+      ]
+    },
+    {
+      "zpid": 20485690,
+      "price": 450000,
+      "currency": "USD",
+      "address": {
+        "streetAddress": "101 California Ave UNIT 107",
+        "city": "Santa Monica",
+        "state": "CA",
+        "zipcode": "90403"
+      },
+      "latitude": 34.01864,
+      "longitude": -118.502754,
+      "homeStatus": "SOLD",
+      "homeType": "CONDO",
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=101+California+Ave%2C+Santa+Monica%2C+CA+90403&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gvQBVKqJBBq2KNJ-l4HGIRrRBUE="
+        }
+      ]
+    },
+    {
+      "zpid": 20485691,
+      "price": 1713900,
+      "currency": "USD",
+      "address": {
+        "streetAddress": "101 California Ave UNIT 201",
+        "city": "Santa Monica",
+        "state": "CA",
+        "zipcode": "90403"
+      },
+      "latitude": 34.01864,
+      "longitude": -118.502754,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=101+California+Ave%2C+Santa+Monica%2C+CA+90403&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gvQBVKqJBBq2KNJ-l4HGIRrRBUE="
+        }
+      ]
+    },
+    {
+      "zpid": 20485692,
+      "price": 6500,
+      "currency": "USD",
+      "address": {
+        "streetAddress": "101 California Ave UNIT 202",
+        "city": "Santa Monica",
+        "state": "CA",
+        "zipcode": "90403"
+      },
+      "latitude": 34.01864,
+      "longitude": -118.502754,
+      "homeStatus": "FOR_RENT",
+      "homeType": "APARTMENT",
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/61592c3d1b88afafb241432df9d11b47-p_c.jpg"
+        }
+      ]
+    },
+    {
+      "zpid": 20485693,
+      "price": 733100,
+      "currency": "USD",
+      "address": {
+        "streetAddress": "101 California Ave UNIT 203",
+        "city": "Santa Monica",
+        "state": "CA",
+        "zipcode": "90403"
+      },
+      "latitude": 34.01864,
+      "longitude": -118.502754,
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=101+California+Ave%2C+Santa+Monica%2C+CA+90403&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=gvQBVKqJBBq2KNJ-l4HGIRrRBUE="
+        }
+      ]
+    }
+  ],
+  "pageViewCount": 19,
+  "price": 875000,
+  "priceHistory": [
+    {
+      "event": "Sold",
+      "time": 1652400000000,
+      "date": "2022-05-13",
+      "price": 875000,
+      "pricePerSquareFoot": 1298,
+      "priceChangeRate": 0.10759493670886076,
+      "source": "CLAW",
+      "buyerAgent": {
+        "photo": {
+          "url": "https://photos.zillowstatic.com/h_e/ISbxn9gzqiiqs61000000000.jpg"
+        },
+        "profileUrl": "/profile/lilian825/",
+        "name": "Lilian Clinton"
+      },
+      "sellerAgent": {
+        "photo": null,
+        "profileUrl": "/profile/karine-mailliez7/",
+        "name": "Karine Mailliez"
+      },
+      "showCountyLink": false,
+      "postingIsRental": false,
+      "attributeSource": {
+        "infoString1": "21-764308",
+        "infoString2": "CLAW",
+        "infoString3": "https://photos.zillowstatic.com/fp/d1d7f14ba9e5de22bbf848071a4b8b8e-zillow_web_logo_inf_11.jpg"
+      }
+    },
+    {
+      "event": "Sold",
+      "time": 1559001600000,
+      "date": "2019-05-28",
+      "price": 790000,
+      "pricePerSquareFoot": 1172,
+      "priceChangeRate": 0.039473684210526314,
+      "source": "CLAW",
+      "buyerAgent": {
+        "photo": {
+          "url": "https://photos.zillowstatic.com/h_e/IS33372ssuseaq1000000000.jpg"
+        },
+        "profileUrl": "/profile/LuxuryAF/",
+        "name": "Carrington Booth"
+      },
+      "sellerAgent": {
+        "photo": {
+          "url": "https://photos.zillowstatic.com/h_e/IS33372ssuseaq1000000000.jpg"
+        },
+        "profileUrl": "/profile/LuxuryAF/",
+        "name": "Carrington Booth"
+      },
+      "showCountyLink": false,
+      "postingIsRental": false,
+      "attributeSource": {
+        "infoString1": "19439276",
+        "infoString2": "CLAW",
+        "infoString3": "https://photos.zillowstatic.com/fp/4f3066f1f5cec0da94c227e529c8b89a-zillow_web_logo_inf_11.jpg"
+      }
+    },
+    {
+      "event": "Sold",
+      "time": 1488412800000,
+      "date": "2017-03-02",
+      "price": 760000,
+      "pricePerSquareFoot": 1128,
+      "priceChangeRate": 0.2572373862696443,
+      "source": "CLAW",
+      "buyerAgent": {
+        "photo": {
+          "url": "https://photos.zillowstatic.com/h_e/ISmqe77sy1vq6e1000000000.jpg"
+        },
+        "profileUrl": "/profile/NinkeyDalton/",
+        "name": "ninkey dalton"
+      },
+      "sellerAgent": {
+        "photo": {
+          "url": "https://photos.zillowstatic.com/h_e/ISmqe77sy1vq6e1000000000.jpg"
+        },
+        "profileUrl": "/profile/NinkeyDalton/",
+        "name": "ninkey dalton"
+      },
+      "showCountyLink": false,
+      "postingIsRental": false,
+      "attributeSource": {
+        "infoString1": "16180642",
+        "infoString2": "CLAW",
+        "infoString3": "https://photos.zillowstatic.com/fp/4f3066f1f5cec0da94c227e529c8b89a-zillow_web_logo_inf_11.jpg"
+      }
+    },
+    {
+      "event": "Sold",
+      "time": 1260489600000,
+      "date": "2009-12-11",
+      "price": 604500,
+      "pricePerSquareFoot": 897,
+      "priceChangeRate": -0.07709923664122137,
+      "source": "Public Record",
+      "buyerAgent": {
+        "photo": {
+          "url": "https://photos.zillowstatic.com/h_e/IShi0w7dnzf15v.jpg"
+        },
+        "profileUrl": "/profile/Lauren-Sullivan/",
+        "name": "Lauren Sullivan"
+      },
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "postingIsRental": false,
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Public Record",
+        "infoString3": null
+      }
+    },
+    {
+      "event": "Sold",
+      "time": 1176854400000,
+      "date": "2007-04-18",
+      "price": 655000,
+      "pricePerSquareFoot": 972,
+      "priceChangeRate": 0.24053030303030304,
+      "source": "Public Record",
+      "buyerAgent": null,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "postingIsRental": false,
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Public Record",
+        "infoString3": null
+      }
+    },
+    {
+      "event": "Sold",
+      "time": 1142467200000,
+      "date": "2006-03-16",
+      "price": 528000,
+      "pricePerSquareFoot": 783,
+      "priceChangeRate": 0,
+      "source": "Public Record",
+      "buyerAgent": null,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "postingIsRental": false,
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Public Record",
+        "infoString3": null
+      }
+    }
+  ],
+  "propertyTaxRate": 0.77,
+  "propertyTypeDimension": "Condo",
+  "providerListingID": null,
+  "rentZestimate": 3599,
+  "resoFacts": {
+    "atAGlanceFacts": [
+      {
+        "factValue": "Residential, Condominium",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1964",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Central",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "1 Garage space",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$1,021 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": "2.5",
+        "factLabel": "Buyers Agency Fee"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "otherFacts": [],
+    "listAOR": null,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "bathroomsFull": 1,
+    "bathroomsThreeQuarter": 0,
+    "bathroomsHalf": 0,
+    "bathroomsOneQuarter": 0,
+    "bathroomsPartial": null,
+    "mainLevelBathrooms": null,
+    "rooms": [],
+    "basement": null,
+    "flooring": [
+      "Mixed"
+    ],
+    "heating": [
+      "Central"
+    ],
+    "hasHeating": true,
+    "cooling": [
+      "Central Air"
+    ],
+    "hasCooling": true,
+    "appliances": [
+      "Dishwasher",
+      "Refrigerator",
+      "Range/Oven",
+      "Microwave"
+    ],
+    "laundryFeatures": [
+      "Common Area",
+      "Laundry Area"
+    ],
+    "fireplaces": null,
+    "fireplaceFeatures": [
+      "None"
+    ],
+    "hasFireplace": false,
+    "furnished": false,
+    "commonWalls": null,
+    "buildingArea": "674",
+    "livingArea": "674 sqft",
+    "aboveGradeFinishedArea": null,
+    "belowGradeFinishedArea": null,
+    "virtualTour": null,
+    "parking": 1,
+    "parkingFeatures": [
+      "Assigned",
+      "On Site",
+      "Guest",
+      "Gated",
+      "Gated Underground",
+      "Community Structure",
+      "Secured"
+    ],
+    "garageSpaces": null,
+    "coveredSpaces": 1,
+    "hasAttachedGarage": false,
+    "hasGarage": true,
+    "openParkingSpaces": null,
+    "hasOpenParking": null,
+    "carportSpaces": null,
+    "hasCarport": false,
+    "otherParking": null,
+    "accessibilityFeatures": null,
+    "levels": null,
+    "stories": null,
+    "entryLevel": null,
+    "entryLocation": null,
+    "hasPrivatePool": false,
+    "hasSpa": false,
+    "spaFeatures": null,
+    "exteriorFeatures": [
+      "Balcony"
+    ],
+    "patioAndPorchFeatures": null,
+    "fencing": null,
+    "view": [
+      "Ocean"
+    ],
+    "hasView": true,
+    "hasWaterfrontView": null,
+    "waterfrontFeatures": null,
+    "waterBodyName": null,
+    "frontageType": null,
+    "frontageLength": null,
+    "topography": null,
+    "woodedArea": null,
+    "vegetation": null,
+    "canRaiseHorses": false,
+    "lotSize": "0.43 Acres",
+    "lotSizeDimensions": null,
+    "otherStructures": null,
+    "additionalParcelsDescription": null,
+    "hasAdditionalParcels": false,
+    "parcelNumber": "4292027038",
+    "hasAttachedProperty": true,
+    "hasLandLease": false,
+    "landLeaseAmount": null,
+    "zoning": "SMR3*",
+    "zoningDescription": null,
+    "homeType": "Condo",
+    "architecturalStyle": null,
+    "constructionMaterials": [],
+    "foundationDetails": [],
+    "roofType": null,
+    "windowFeatures": null,
+    "propertyCondition": null,
+    "isNewConstruction": null,
+    "yearBuilt": 1964,
+    "developmentStatus": null,
+    "yearBuiltEffective": null,
+    "onMarketDate": 1652943493000,
+    "builderModel": null,
+    "builderName": null,
+    "hasHomeWarranty": false,
+    "electric": null,
+    "hasElectricOnProperty": null,
+    "gas": null,
+    "sewer": null,
+    "waterSources": null,
+    "utilities": null,
+    "greenBuildingVerificationType": null,
+    "greenEnergyEfficient": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "greenWaterConservation": null,
+    "numberOfUnitsInCommunity": null,
+    "numberOfUnitsVacant": null,
+    "storiesTotal": null,
+    "allowedPets": null,
+    "hasPetsAllowed": true,
+    "hasRentControl": null,
+    "buildingFeatures": null,
+    "structureType": "Condominium,Attached,High Rise,High or Mid-Rise Condo",
+    "buildingName": null,
+    "elementarySchool": null,
+    "elementarySchoolDistrict": null,
+    "middleOrJuniorSchool": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "highSchool": null,
+    "highSchoolDistrict": null,
+    "securityFeatures": [
+      "24 Hour Security",
+      "Fire and Smoke Detection System",
+      "Security Lights",
+      "Smoke Detector(s)"
+    ],
+    "communityFeatures": [
+      "Community Mailbox"
+    ],
+    "isSeniorCommunity": null,
+    "cityRegion": "Santa Monica",
+    "associationFee": "$1,021 monthly",
+    "hasAssociation": true,
+    "associationAmenities": [
+      "Onsite Property Management",
+      "Storage",
+      "Elevator(s)",
+      "Controlled Access",
+      "Pool",
+      "Guest Parking"
+    ],
+    "associationFeeIncludes": [
+      "Utilities",
+      "Earthquake Insurance",
+      "Electricity",
+      "Gas",
+      "Cable TV",
+      "Trash",
+      "Water"
+    ],
+    "associationName": null,
+    "associationPhone": null,
+    "associationFee2": null,
+    "associationName2": null,
+    "associationPhone2": null,
+    "taxAnnualAmount": 9970,
+    "listingId": null,
+    "buildingAreaSource": null,
+    "specialListingConditions": "Standard",
+    "availabilityDate": null,
+    "basementYN": false,
+    "buyerAgencyCompensation": "2.5",
+    "buyerAgencyCompensationType": "%",
+    "doorFeatures": null,
+    "interiorFeatures": null,
+    "leaseTerm": null,
+    "lotFeatures": null,
+    "mainLevelBedrooms": null,
+    "otherEquipment": null,
+    "poolFeatures": [
+      "Association",
+      "Heated",
+      "Salt Water"
+    ],
+    "propertySubType": [
+      "Residential",
+      "Condominium"
+    ],
+    "virtualTourURLUnbranded": null,
+    "waterViewYN": true,
+    "waterView": "Ocean",
+    "livingAreaRange": null,
+    "livingAreaRangeUnits": null,
+    "exclusions": null,
+    "landLeaseExpirationDate": null,
+    "subdivisionName": "Santa Monica Bay Tower",
+    "attic": null,
+    "bodyType": null,
+    "cropsIncludedYN": null,
+    "elevation": null,
+    "elevationUnits": null,
+    "foundationArea": null,
+    "horseAmenities": null,
+    "horseYN": null,
+    "inclusions": null,
+    "incomeIncludes": null,
+    "irrigationWaterRightsAcres": null,
+    "irrigationWaterRightsYN": null,
+    "listingTerms": null,
+    "ownership": null,
+    "ownershipType": null,
+    "roadSurfaceType": null,
+    "tenantPays": null,
+    "totalActualRent": null,
+    "waterSource": null,
+    "petsMaxWeight": null,
+    "municipality": null,
+    "pricePerSquareFoot": 1298,
+    "marketingType": null,
+    "depositsAndFees": null,
+    "daysOnZillow": 140,
+    "hoaFee": "$1,021 monthly",
+    "offerReviewDate": null
+  },
+  "schools": [
+    {
+      "distance": 0.6,
+      "name": "Roosevelt Elementary School",
+      "rating": 8,
+      "level": "Elementary",
+      "studentsPerTeacher": 21,
+      "assigned": null,
+      "grades": "K-5",
+      "link": "https://www.greatschools.org/school?id=02931&state=CA",
+      "type": "Public",
+      "size": 763,
+      "totalCount": 1,
+      "isAssigned": true
+    },
+    {
+      "distance": 1,
+      "name": "Lincoln Middle School",
+      "rating": 8,
+      "level": "Middle",
+      "studentsPerTeacher": 22,
+      "assigned": null,
+      "grades": "6-8",
+      "link": "https://www.greatschools.org/school?id=02924&state=CA",
+      "type": "Public",
+      "size": 1102,
+      "totalCount": 1,
+      "isAssigned": true
+    },
+    {
+      "distance": 1.2,
+      "name": "Santa Monica High School",
+      "rating": 8,
+      "level": "High",
+      "studentsPerTeacher": 32,
+      "assigned": null,
+      "grades": "9-12",
+      "link": "https://www.greatschools.org/school?id=02932&state=CA",
+      "type": "Public",
+      "size": 2857,
+      "totalCount": 1,
+      "isAssigned": true
+    }
+  ],
+  "solarPotential": {
+    "sunScore": 94.58,
+    "buildFactor": 79.2,
+    "climateFactor": 7.17,
+    "electricityFactor": 5.42,
+    "solarFactor": 2.8
+  },
+  "state": "CA",
+  "stateId": 9,
+  "streetAddress": "101 California Ave UNIT 303",
+  "taxHistory": [
+    {
+      "time": 1632995327966,
+      "taxPaid": 9969.74,
+      "taxIncreaseRate": 0.006944743,
+      "value": 814147,
+      "valueIncreaseRate": 0.01035865
+    },
+    {
+      "time": 1601459327966,
+      "taxPaid": 9900.98,
+      "taxIncreaseRate": 0,
+      "value": 805800,
+      "valueIncreaseRate": 0.019093135
+    },
+    {
+      "time": 1569836927966,
+      "taxPaid": 9900.98,
+      "taxIncreaseRate": 0.0710339,
+      "value": 790703,
+      "valueIncreaseRate": 0.01999871
+    },
+    {
+      "time": 1538300927966,
+      "taxPaid": 9244.32,
+      "taxIncreaseRate": 0,
+      "value": 775200,
+      "valueIncreaseRate": 4.1677933
+    },
+    {
+      "time": 1506764927966,
+      "taxPaid": 9244.32,
+      "taxIncreaseRate": 3.2286425,
+      "value": 150006,
+      "valueIncreaseRate": 0.01999796
+    },
+    {
+      "time": 1475228927966,
+      "taxPaid": 2186.12,
+      "taxIncreaseRate": 0.07564536,
+      "value": 147065,
+      "valueIncreaseRate": 0.015249628
+    },
+    {
+      "time": 1443606527966,
+      "taxPaid": 2032.38,
+      "taxIncreaseRate": 0.023569964,
+      "value": 144856,
+      "valueIncreaseRate": 0.0199762
+    },
+    {
+      "time": 1412070527966,
+      "taxPaid": 1985.58,
+      "taxIncreaseRate": 0,
+      "value": 142019,
+      "valueIncreaseRate": 0.024623754
+    },
+    {
+      "time": 1348998527966,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 138606,
+      "valueIncreaseRate": 0.01999426
+    },
+    {
+      "time": 1317376127966,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 135889,
+      "valueIncreaseRate": -0.7752043
+    },
+    {
+      "time": 1285840127966,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 604500,
+      "valueIncreaseRate": -0.1129353
+    },
+    {
+      "time": 1254304127966,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 681461,
+      "valueIncreaseRate": 0.019998504
+    },
+    {
+      "time": 1222768127966,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 668100,
+      "valueIncreaseRate": 0.24147081
+    },
+    {
+      "time": 1191145727966,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 538152,
+      "valueIncreaseRate": 1.121097
+    },
+    {
+      "time": 1159609727966,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 253714,
+      "valueIncreaseRate": 0
+    },
+    {
+      "time": 1128073727966,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 253714,
+      "valueIncreaseRate": 0.040395632
+    },
+    {
+      "time": 1096537727966,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 243863,
+      "valueIncreaseRate": 0.01866797
+    },
+    {
+      "time": 1064915327966,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 239394,
+      "valueIncreaseRate": 0.019995654
+    },
+    {
+      "time": 1033379327966,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 234701,
+      "valueIncreaseRate": 0.04038743
+    },
+    {
+      "time": 970307327966,
+      "taxPaid": null,
+      "taxIncreaseRate": 0,
+      "value": 225590,
+      "valueIncreaseRate": 0
+    }
+  ],
+  "timeOnZillow": "140 days",
+  "timeZone": "America/Los_Angeles",
+  "url": "/homedetails/101-California-Ave-UNIT-303-Santa-Monica-CA-90403/20485700_zpid/",
+  "yearBuilt": 1964,
+  "zestimate": 863700,
+  "zestimateHighPercent": "10",
+  "zestimateLowPercent": "9",
+  "zipcode": "90403",
+  "zpid": 20485700
+}
