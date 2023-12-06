@@ -1,3 +1,5 @@
+ DROP DATABASE apartments_db;
+ CREATE DATABASE apartments_db;
 use apartments_db;
 
 CREATE TABLE Address (

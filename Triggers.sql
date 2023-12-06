@@ -1,5 +1,3 @@
- DROP DATABASE apartments_db;
- CREATE DATABASE apartments_db;
 
 -- Trigger to validate phone number is of 10 digits.
 DELIMITER //
