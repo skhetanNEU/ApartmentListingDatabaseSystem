@@ -1,0 +1,14 @@
+{
+    "local": {
+        "host": "localhost",
+        "user": "root",
+        "password": "qazwsx12",
+        "database": "apartments_db"
+    },
+    "dev": {
+        "host": "dev-host",
+        "user": "dev-user",
+        "password": "dev-password",
+        "database": "dev-apartments_db"
+    }
+}
