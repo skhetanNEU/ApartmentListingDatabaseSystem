@@ -167,7 +167,7 @@ try:
     conn =connect(
         host = 'localhost',
         user = 'root',
-        password = 'root',
+        password = '',
         database = 'apartments_db'
     )
          
@@ -217,6 +217,7 @@ try:
                 #get the id of the address from the address table
                 address_query = "SELECT id FROM address WHERE building=%s AND street=%s AND city=%s AND state=%s AND zipcode=%s AND country=%s"
                 address_values = (address.building, address.street, address.city, address.state, address.zip_code, address.country)
+                print(address_values)
                 cursor.execute(address_query, address_values)
                 address_id = cursor.fetchone()[0]
                 listing_values = (address_id, listing.dateOfListing)

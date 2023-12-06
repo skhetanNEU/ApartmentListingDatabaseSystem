@@ -1,3 +1,5 @@
+use apartments_db;
+
 CREATE TABLE Address (
     id int(10) NOT NULL AUTO_INCREMENT,
     building varchar(255) NOT NULL,
@@ -72,7 +74,7 @@ CREATE TABLE Person (
     id int(10) NOT NULL AUTO_INCREMENT,
     first_name varchar(255) NOT NULL,
     last_name varchar(255) NOT NULL,
-    phone_number int(10) NOT NULL UNIQUE,
+    phone_number varchar(10) NOT NULL UNIQUE,
     email varchar(255) NOT NULL UNIQUE,
     dob date NOT NULL,
     Addressid int(10) DEFAULT NULL,
@@ -113,7 +115,6 @@ CREATE TABLE sizeOfHouse (
     id int(10) NOT NULL AUTO_INCREMENT,
     rooms int(10) NOT NULL,
     bathrooms int(10) NOT NULL,
-    balconies int(10) NOT NULL,
     PRIMARY KEY (id)
 );
 
