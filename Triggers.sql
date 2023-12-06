@@ -40,6 +40,11 @@ VALUES
     );
     
  
+ 
+ 
+ 
+ 
+ 
 
 DELIMITER //
 
@@ -65,4 +70,4 @@ VALUES
 INSERT INTO
     Address (building, street, city, state, country, zipcode)
 VALUES
-    ('121', 'Upper St', 'Springfield', 'StateA', 'CountryX', '12345');
+    ('111', 'Lower St', 'Springfield', 'StateA', 'CountryX', '12345');

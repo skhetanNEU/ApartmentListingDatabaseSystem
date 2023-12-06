@@ -10,7 +10,7 @@ from mysql.connector import Error
 import json
 
 class DatabaseManager:
-    def __init__(self, config_file, profile):
+    def __init__(self, config_file, profile='local'):
         """
         Initialize the DatabaseManager with database connection parameters from a JSON config file.
         :param config_file: Path to the JSON configuration file.

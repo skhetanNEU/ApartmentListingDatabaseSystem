@@ -22,7 +22,7 @@ END //
 DELIMITER ;
 
 -- Demonstartion of AddressExists function.
-SELECT AddressExists( '101', 'Main St', 'Springfield', 'StateA', 'CountryX', '12345') as DoesAddressExist;
+SELECT AddressExists('201', 'Main St', 'Springfield', 'Illinois', 'USA', '62701') as DoesAddressExist;
 
 -- Demonstartion of AddressExists function.
 SELECT AddressExists('123', 'Market Street', 'Parksville', 'NY', 'USA', '10021') as DoesAddressExist;
@@ -74,7 +74,7 @@ SELECT PersonExists(
  
  DELIMITER //
 
-CREATE FUNCTION TotalListingsInCity(_state VARCHAR(255))
+CREATE FUNCTION TotalListingsInState(_state VARCHAR(255))
 RETURNS INT DETERMINISTIC
 BEGIN
     DECLARE total INT;
@@ -86,9 +86,10 @@ END //
 
 DELIMITER ;
 
+   
 -- Demonstration of function
 
-SELECT TotalListingsInCity('StateC');
+SELECT TotalListingsInState('California');
 
 -- Function to find average broker rating
 

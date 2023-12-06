@@ -110,14 +110,21 @@ WHERE ad.building = '123' and pr.email = 'adeline.paula@example.com';
 
 -- Stored procedure to Add Mortgage Company 
 
+
+DROP PROCEDURE IF EXISTS AddMortgageCompany;
 DELIMITER //
 CREATE PROCEDURE AddMortgageCompany(
     IN _name VARCHAR(255)
 )
 BEGIN
-    INSERT INTO mortgageCompanies(name)
-    VALUES (_name);
+    -- Check if a mortgage company with the specified name already exists
+    IF NOT EXISTS (SELECT * FROM mortgageCompanies WHERE name = _name) THEN
+        -- Insert the new mortgage company since it does not exist
+        INSERT INTO mortgageCompanies(name)
+        VALUES (_name);
+    END IF;
 END //
+
 DELIMITER ;
 
 -- Demonstartion of stored procedure
@@ -125,6 +132,9 @@ CALL AddMortgageCompany('Acme Mortgages');
 
 SELECT * FROM mortgageCompanies where name = 'Acme Mortgages';
 
+CALL AddMortgageCompany('Acme Mortgages');
+
+SELECT * FROM mortgageCompanies where name = 'Acme Mortgages';
 
 -- Stored procedure to list properties by city.
 
@@ -142,10 +152,12 @@ END //
 DELIMITER ;
 
 -- Demonstartion of stored procedure. 
-CALL ListPropertiesByState('StateC');
+CALL ListPropertiesByState('California');
 
 
 -- Stored procedure for adding new listing
+
+DROP PROCEDURE IF EXISTS AddPropertyListing;
 
 DELIMITER //
 CREATE PROCEDURE AddPropertyListing(
@@ -173,42 +185,25 @@ SELECT * FROM listing l
     JOIN Address a ON l.Addressid = a.id
     WHERE a.building = '67';
   
-  
-  -- Stored procedure to Add Mortgage Company 
-
-DELIMITER //
-CREATE PROCEDURE AddMortgageCompany(
-    IN _name VARCHAR(255)
-)
-BEGIN
-    INSERT INTO mortgageCompanies(name)
-    VALUES (_name);
-END //
-DELIMITER ;
-
--- Demonstartion of stored procedure
-CALL AddMortgageCompany('Acme Mortgages');
-
-SELECT * FROM mortgageCompanies;
 
 
 -- Stored procedure to list properties by city.
 
-DROP PROCEDURE IF EXISTS ListPropertiesByState;
+DROP PROCEDURE IF EXISTS ListPropertiesByZipcode;
 
 DELIMITER //
-CREATE PROCEDURE ListPropertiesByState(
-    IN _state VARCHAR(255)
+CREATE PROCEDURE ListPropertiesByZipcode(
+    IN _zipcode VARCHAR(255)
 )
 BEGIN
     SELECT * FROM listing l
     JOIN Address a ON l.Addressid = a.id
-    WHERE a.state = _state;
+    WHERE a.zipcode = _zipcode;
 END //
 DELIMITER ;
 
 -- Demonstartion of stored procedure. 
-CALL ListPropertiesByState('StateC');
+CALL ListPropertiesByZipcode('92040');
 
 
     
