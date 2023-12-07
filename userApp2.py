@@ -8,6 +8,7 @@ Created on Tue Dec  5 20:27:27 2023
 import mysql.connector
 from mysql.connector import Error
 import json
+import os
 
 class DatabaseManager:
     def __init__(self, config_file, profile='local'):
@@ -174,12 +175,12 @@ class DatabaseManager:
     '''
                 
 
-    def call_total_listings_in_city(self):
+    def call_total_listings_in_state(self):
         """
-        Call the TotalListingsInCity function with a user-provided state and print the result.
+        Call the TotalListingsInState function with a user-provided state and print the result.
         """
         state_input = input("Enter the state: ")
-        query = "SELECT TotalListingsInCity(%s)"
+        query = "SELECT TotalListingsInState(%s)"
         result = self.fetch_data(query, (state_input,))
         if result:
             print(f"Total listings in {state_input}: {result[0]}")
@@ -264,6 +265,32 @@ class DatabaseManager:
                     print("No address found with those details.")
         else:
             print("Not connected to the database")
+            
+            
+    def delete_address_by_id(self):
+        """
+        Delete an address from the Address table based on user input.
+        """
+        print("Provide values to delete an address")
+        delete_query = """
+                        DELETE FROM Address 
+                        WHERE id = %s
+                    """
+
+        # Taking values as user input
+        _id = input("Enter id: ")
+        values_to_delete = (_id)
+
+        if self.conn is not None and self.conn.is_connected():
+            with self.conn.cursor() as cursor:
+                cursor.execute(delete_query, values_to_delete)
+                self.conn.commit()
+                if cursor.rowcount > 0:
+                    print("Address deleted successfully.")
+                else:
+                    print("No address found with those details.")
+        else:
+            print("Not connected to the database")
 
     '''
     *********************************
@@ -314,9 +341,20 @@ class DatabaseManager:
 
 
 def main():
+    config_folder = 'JSONFiles'
+    config_file = 'settings.json'
+    file_path = os.path.join(config_folder, config_file)
     # Initialize DatabaseManager with the configuration file and profile
-    db_manager = DatabaseManager('settings.json', 'local')
+    db_manager = DatabaseManager(file_path, 'local')
     db_manager.connect()
+
+    '''
+    *********************************
+    *********************************
+                SELECT
+    *********************************
+    *********************************
+    '''    
 
     db_manager.fetch_broker_rent_view()
     db_manager.cleanSpace()
@@ -326,6 +364,14 @@ def main():
 
     db_manager.fetch_lease_end_data()
     db_manager.cleanSpace()
+
+    '''
+    *********************************
+    *********************************
+            CALL PROCEDURE
+    *********************************
+    *********************************
+    ''' 
 
     # Call the AddMortgageCompany stored procedure
     procedure_name = 'AddMortgageCompany'
@@ -338,21 +384,56 @@ def main():
     db_manager.fetch_specific_data(select_query, (company_name,))
     db_manager.cleanSpace()
 
+    '''
+    *********************************
+    *********************************
+            CALL FUNCTION
+    *********************************
+    *********************************
+    '''
+    
     # Call and print the total listings in a specified city
-    db_manager.call_total_listings_in_city()
+    db_manager.call_total_listings_in_state() #rename
     db_manager.cleanSpace()
 
     # Call and print the average broker rating
     db_manager.call_average_broker_rating()
     db_manager.cleanSpace()
 
+    '''
+    *********************************
+    *********************************
+                INSERT
+    *********************************
+    *********************************
+    '''
+    
     # Insert an address
     db_manager.insert_address()
     db_manager.cleanSpace()
 
+    '''
+    *********************************
+    *********************************
+                DELETE
+    *********************************
+    *********************************
+    '''
+    
     # Delete an address
     db_manager.delete_address()
     db_manager.cleanSpace()
+    
+    db_manager.delete_address_by_id()
+    db_manager.cleanSpace()
+
+    '''
+    *********************************
+    *********************************
+                UPDATE
+    *********************************
+    *********************************
+    '''
 
     # Update property price and display updated data
     db_manager.update_sell_price()
