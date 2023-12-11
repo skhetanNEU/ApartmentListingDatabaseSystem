@@ -4,7 +4,7 @@ use apartments_db;
 
 CREATE TABLE Address (
     id int(10) NOT NULL AUTO_INCREMENT,
-    building varchar(255) NOT NULL,
+    building varchar(255),
     street varchar(255) NOT NULL,
     city varchar(255) NOT NULL,
     state varchar(255) NOT NULL,
@@ -76,7 +76,7 @@ CREATE TABLE Person (
     id int(10) NOT NULL AUTO_INCREMENT,
     first_name varchar(255) NOT NULL,
     last_name varchar(255) NOT NULL,
-    phone_number varchar(10) NOT NULL UNIQUE,
+    phone_number varchar(10) NOT NULL,
     email varchar(255) NOT NULL UNIQUE,
     dob date NOT NULL,
     Addressid int(10) DEFAULT NULL,

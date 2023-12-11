@@ -11,5 +11,5 @@ ON se.listingid = li.id
 INNER JOIN address AS ad
 ON ad.id = li.addressid;
 
-select * from owner;
-select * from rent;
+-- select * from owner;
+-- select * from rent;

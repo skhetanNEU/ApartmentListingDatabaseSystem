@@ -16,12 +16,17 @@ ON re.listingid = li.id
 INNER JOIN address AS ad
 ON ad.id = li.addressid;
  
+/* 
+
 SELECT * FROM broker_rent_view;
 
--- Properties with lease termination within next 6 months.
+Properties with lease termination within next 6 months.
+
 SELECT *
 FROM broker_rent_view
 WHERE lease_end_date BETWEEN CURDATE() AND DATE_ADD(CURDATE(), INTERVAL 6 MONTH);
+
+*/
 
 
 -- Details of property sold along with address.
@@ -38,6 +43,6 @@ ON se.listingid = li.id
 INNER JOIN address AS ad
 ON ad.id = li.addressid;
 
-SELECT * FROM broker_sell_view;
+-- SELECT * FROM broker_sell_view;
 
-SELECT * FROM broker_sell_view where buying_price > 400000;
+-- SELECT * FROM broker_sell_view where buying_price > 400000;

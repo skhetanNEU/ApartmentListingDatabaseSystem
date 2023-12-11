@@ -55,6 +55,7 @@ END //
 
 DELIMITER ;
 
+/*
 -- Demonstartion of entirely new broker.
 CALL RegisterComprehensiveBroker(
     '123',                     -- Building
@@ -108,6 +109,7 @@ INNER JOIN Broker AS br
 ON br.PersonId = pr.id
 WHERE ad.building = '123' and pr.email = 'adeline.paula@example.com';
 
+*/
 -- Stored procedure to Add Mortgage Company 
 
 
@@ -127,15 +129,18 @@ END //
 
 DELIMITER ;
 
+/*
 -- Demonstartion of stored procedure
 CALL AddMortgageCompany('Acme Mortgages');
 
 SELECT * FROM mortgageCompanies where name = 'Acme Mortgages';
 
+-- For Company names already in the table, no new entry is created. 
 CALL AddMortgageCompany('Acme Mortgages');
 
 SELECT * FROM mortgageCompanies where name = 'Acme Mortgages';
 
+*/
 -- Stored procedure to list properties by city.
 
 DROP PROCEDURE IF EXISTS ListPropertiesByState;
@@ -151,10 +156,11 @@ BEGIN
 END //
 DELIMITER ;
 
+/*
 -- Demonstartion of stored procedure. 
 CALL ListPropertiesByState('California');
 
-
+*/
 -- Stored procedure for adding new listing
 
 DROP PROCEDURE IF EXISTS AddPropertyListing;
@@ -178,13 +184,14 @@ BEGIN
 END //
 DELIMITER ; 
 
+/*
 -- Demonstartion of stored procedure.
 CALL AddPropertyListing('67', 'Main St', 'Springfield', 'StateA', 'CountryX', '12345', '2021-01-01');
 
 SELECT * FROM listing l
     JOIN Address a ON l.Addressid = a.id
     WHERE a.building = '67';
-  
+ */ 
 
 
 -- Stored procedure to list properties by city.
@@ -202,9 +209,10 @@ BEGIN
 END //
 DELIMITER ;
 
+/*
 -- Demonstartion of stored procedure. 
 CALL ListPropertiesByZipcode('92040');
-
+*/
 
     
     

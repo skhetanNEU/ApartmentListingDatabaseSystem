@@ -1,0 +1,1028 @@
+{
+  "listingProvider": null,
+  "zpid": 81771510,
+  "buildingPermits": null,
+  "propertyTaxRate": 0.67,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 1,
+      "review_count": 50,
+      "display_name": "Annette Given Team",
+      "zuid": "X1-ZUywli78tnauq1_1zmzs",
+      "rating_average": 5,
+      "badge_type": "Premier Agent",
+      "phone": {
+        "prefix": "658",
+        "areacode": "617",
+        "number": "4993"
+      },
+      "image_url": "https://photos.zillowstatic.com/h_n/IS7mci5a6uez7x1000000000.jpg"
+    }
+  ],
+  "zipcode": "02118",
+  "openHouseSchedule": [
+    {
+      "startTime": "2023-12-09 11:00:00",
+      "endTime": "2023-12-09 12:30:00"
+    }
+  ],
+  "longitude": -71.07313,
+  "zestimateLowPercent": "5",
+  "address": {
+    "community": null,
+    "city": "Boston",
+    "state": "MA",
+    "neighborhood": null,
+    "subdivision": null,
+    "streetAddress": "21 Father Francis Gilday St APT 107",
+    "zipcode": "02118"
+  },
+  "cityId": 44269,
+  "timeOnZillow": "166 days",
+  "url": "/homedetails/21-Father-Francis-Gilday-St-APT-107-Boston-MA-02118/81771510_zpid/",
+  "zestimate": 858100,
+  "imgSrc": "https://photos.zillowstatic.com/fp/ea7bb6c42d237be3a704213638f69a21-p_d.jpg",
+  "description": "New Price! The Penmark, a boutique residence in the heart of the South End, offers the perfect blend of period charm and modern amenities. Enjoy the convenience of a full-service building with concierge, parking and a gym! This sun filled, front facing, first floor unit, duplex residence is impeccably maintained. It boasts a large modern kitchen and spacious living/dining space. Primary bedroom with walk-in closet, and a generously sized second bedroom connected by French doors. Two spa-like full bathrooms. Dramatic 12' ceilings and floor to ceiling windows, an abundance of recessed lighting, built-in bookshelves, central air and in-unit laundry. All this, plus brand-new common areas, one deeded garage parking spot, a dedicated storage area, professional management, elevator, and pet friendly. Conveniently located near SoWa, Whole Foods, Blackstone & Franklin Parks. Easy access to public transport, highways, and BU Medical. Move right in and make this one yours!",
+  "price": 899900,
+  "livingAreaValue": 1257,
+  "resoFacts": {
+    "hasAttachedProperty": true,
+    "frontageType": null,
+    "poolFeatures": null,
+    "flooring": [
+      "Wood"
+    ],
+    "builderModel": null,
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": true,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "waterViewYN": null,
+    "livingQuarters": {},
+    "totalActualRent": null,
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "buyerAgencyCompensationType": "%",
+    "rooms": [
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": "143",
+        "roomAreaSource": null,
+        "roomType": "MasterBedroom",
+        "roomDescription": null,
+        "roomWidth": "11",
+        "roomLevel": "Basement",
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": "13",
+        "roomFeatures": [
+          "Bathroom - Full",
+          " Walk-In Closet(s)",
+          " Flooring - Wood"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": "120",
+        "roomAreaSource": null,
+        "roomType": "Bedroom2",
+        "roomDescription": null,
+        "roomWidth": "10",
+        "roomLevel": "Basement",
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": "12",
+        "roomFeatures": [
+          "Flooring - Wood"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomType": "MasterBathroom",
+        "roomDescription": null,
+        "roomWidth": null,
+        "roomLevel": null,
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": null,
+        "roomFeatures": [
+          "Yes"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": "35",
+        "roomAreaSource": null,
+        "roomType": "Bathroom1",
+        "roomDescription": null,
+        "roomWidth": "5",
+        "roomLevel": "Basement",
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": "7",
+        "roomFeatures": [
+          "Bathroom - Full",
+          " Bathroom - Tiled With Tub"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": "40",
+        "roomAreaSource": null,
+        "roomType": "Bathroom2",
+        "roomDescription": null,
+        "roomWidth": "5",
+        "roomLevel": "Basement",
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": "8",
+        "roomFeatures": [
+          "Bathroom - Full",
+          " Bathroom - Tiled  With Shower Stall"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": "98",
+        "roomAreaSource": null,
+        "roomType": "DiningRoom",
+        "roomDescription": null,
+        "roomWidth": "7",
+        "roomLevel": "First",
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": "14",
+        "roomFeatures": [
+          "Flooring - Wood"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": "84",
+        "roomAreaSource": null,
+        "roomType": "Kitchen",
+        "roomDescription": null,
+        "roomWidth": "7",
+        "roomLevel": "First",
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": "12",
+        "roomFeatures": [
+          "Flooring - Hardwood",
+          " Countertops - Stone/Granite/Solid",
+          " Breakfast Bar / Nook",
+          " Stainless Steel Appliances"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      },
+      {
+        "level": null,
+        "dimensions": null,
+        "features": null,
+        "roomAreaUnits": null,
+        "roomArea": "234",
+        "roomAreaSource": null,
+        "roomType": "LivingRoom",
+        "roomDescription": null,
+        "roomWidth": "13",
+        "roomLevel": "First",
+        "description": null,
+        "roomLengthWidthUnits": null,
+        "roomLength": "18",
+        "roomFeatures": [
+          "Flooring - Wood"
+        ],
+        "roomDimensions": null,
+        "roomLengthWidthSource": null,
+        "area": null
+      }
+    ],
+    "belowGradeFinishedArea": null,
+    "feesAndDues": [
+      {
+        "phone": null,
+        "name": null,
+        "fee": "$1,154 monthly",
+        "type": "HOA"
+      }
+    ],
+    "cityRegion": "Boston",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "associationFeeIncludes": [
+      "Heat",
+      "Gas",
+      "Water",
+      "Sewer",
+      "Insurance",
+      "Security",
+      "Maintenance Structure",
+      "Maintenance Grounds",
+      "Snow Removal",
+      "Trash",
+      "Reserve Funds"
+    ],
+    "waterSource": [
+      "Public"
+    ],
+    "carportParkingCapacity": null,
+    "inclusions": null,
+    "hasFireplace": false,
+    "gas": null,
+    "sewer": [
+      "Public Sewer"
+    ],
+    "elevationUnits": null,
+    "roadSurfaceType": null,
+    "subdivisionName": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "1,257 sqft",
+    "entryLevel": null,
+    "irrigationWaterRightsAcres": null,
+    "greenWaterConservation": null,
+    "stories": null,
+    "bathrooms": 2,
+    "numberOfUnitsInCommunity": null,
+    "listingTerms": null,
+    "otherParking": null,
+    "associationFee": "$1,154 monthly",
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "heating": [
+      "Forced Air"
+    ],
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": true,
+    "bedrooms": 2,
+    "architecturalStyle": null,
+    "listingId": null,
+    "structureType": "Mid-Rise",
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "electric": [
+      "Circuit Breakers"
+    ],
+    "otherFacts": {},
+    "lotFeatures": null,
+    "roofType": null,
+    "constructionMaterials": {},
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": "$1,154 monthly",
+    "doorFeatures": null,
+    "taxAnnualAmount": 6029,
+    "bathroomsPartial": null,
+    "bathroomsHalf": 0,
+    "daysOnZillow": 166,
+    "listAOR": null,
+    "buildingName": "Penmark",
+    "attic": null,
+    "mainLevelBedrooms": null,
+    "elementarySchool": null,
+    "virtualTour": null,
+    "hasCarport": false,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": [
+      "Public Transportation",
+      "Shopping",
+      "Park",
+      "Walk/Jog Trails",
+      "Medical Facility",
+      "Highway Access",
+      "House of Worship",
+      "Private School",
+      "Public School",
+      "T-Station",
+      "University"
+    ],
+    "yearBuiltEffective": 2006,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "hasHomeWarranty": false,
+    "entryLocation": null,
+    "yearBuilt": 1864,
+    "propertySubType": [
+      "Condominium"
+    ],
+    "propertyCondition": null,
+    "utilities": [
+      "for Gas Range"
+    ],
+    "parcelNumber": "W:08 P:01401 S:524,4705998",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "isNewConstruction": null,
+    "otherStructures": null,
+    "livingArea": "1,257 sqft",
+    "livingAreaRangeUnits": null,
+    "buildingArea": "1,257",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "isSeniorCommunity": null,
+    "foundationDetails": {},
+    "frontageLength": null,
+    "exteriorFeatures": {},
+    "associationAmenities": [
+      "Hot Water",
+      "Elevator(s)",
+      "Recreation Facilities",
+      "Fitness Center",
+      "Storage"
+    ],
+    "buildingFeatures": null,
+    "hasCooling": true,
+    "buildingAreaSource": null,
+    "parkingFeatures": [
+      "Under",
+      "Off Street",
+      "Deeded"
+    ],
+    "foundationArea": null,
+    "zoning": "CD",
+    "hoaFee": "$1,154 monthly",
+    "livingAreaRange": null,
+    "bathroomsFull": 2,
+    "additionalParcelsDescription": null,
+    "waterBodyName": null,
+    "waterfrontFeatures": null,
+    "aboveGradeFinishedArea": null,
+    "zoningDescription": null,
+    "levels": null,
+    "basementYN": false,
+    "hasView": false,
+    "appliances": null,
+    "securityFeatures": [
+      "Intercom",
+      "Concierge"
+    ],
+    "elevation": null,
+    "fencing": null,
+    "greenEnergyEfficient": null,
+    "developmentStatus": null,
+    "ownershipType": null,
+    "garageParkingCapacity": 1,
+    "associations": [
+      {
+        "feeFrequency": "$1,154 monthly",
+        "name": null,
+        "phone": null
+      }
+    ],
+    "waterView": null,
+    "laundryFeatures": [
+      "In Basement",
+      "In Unit"
+    ],
+    "buyerAgencyCompensation": "2.5",
+    "basement": null,
+    "additionalFeeInfo": null,
+    "commonWalls": "2+ Common Walls",
+    "homeType": "Condo",
+    "spaFeatures": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "hasHeating": true,
+    "associationFee2": null,
+    "cooling": [
+      "Central Air"
+    ],
+    "openParkingCapacity": null,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "associationName": null,
+    "specialListingConditions": null,
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "exclusions": null,
+    "storiesTotal": 2,
+    "landLeaseAmount": null,
+    "fireplaces": 0,
+    "availabilityDate": null,
+    "cropsIncludedYN": null,
+    "coveredParkingCapacity": 1,
+    "irrigationWaterRightsYN": null,
+    "hasOpenParking": null,
+    "onMarketDate": 1687478400000,
+    "hasElectricOnProperty": null,
+    "parkingCapacity": 1,
+    "pricePerSquareFoot": 716,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Condominium",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1864",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Forced Air",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "1 Attached Garage space",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "$1,154 monthly",
+        "factLabel": "HOA"
+      },
+      {
+        "factValue": "166 Days",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$716",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": "2.5",
+        "factLabel": "Buyers Agency Fee"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "hasAssociation": true
+  },
+  "taxHistory": [
+    {
+      "time": 1701910233198,
+      "valueIncreaseRate": 0.009781791,
+      "taxIncreaseRate": -0.003284924,
+      "taxPaid": 11530,
+      "value": 1073600
+    },
+    {
+      "time": 1670374233198,
+      "valueIncreaseRate": 0.020051809,
+      "taxIncreaseRate": 0.04019423,
+      "taxPaid": 11568,
+      "value": 1063200
+    },
+    {
+      "time": 1638838233198,
+      "valueIncreaseRate": -0.06099099,
+      "taxIncreaseRate": -0.051271114,
+      "taxPaid": 11121,
+      "value": 1042300
+    },
+    {
+      "time": 1607302233198,
+      "valueIncreaseRate": 0.030258028,
+      "taxIncreaseRate": 0.03222966,
+      "taxPaid": 11722,
+      "value": 1110000
+    },
+    {
+      "time": 1575679833198,
+      "valueIncreaseRate": 0.06043307,
+      "taxIncreaseRate": 0.06649136,
+      "taxPaid": 11356,
+      "value": 1077400
+    },
+    {
+      "time": 1544143833198,
+      "valueIncreaseRate": 0.05002067,
+      "taxIncreaseRate": 4.1484137,
+      "taxPaid": 10648,
+      "value": 1016000
+    },
+    {
+      "time": 1512607833198,
+      "valueIncreaseRate": 0.039982803,
+      "taxIncreaseRate": -0.79790795,
+      "taxPaid": 2068.21,
+      "value": 967600
+    },
+    {
+      "time": 1481071833198,
+      "valueIncreaseRate": 0.20237787,
+      "taxIncreaseRate": 0.092092626,
+      "taxPaid": 10234,
+      "value": 930400
+    },
+    {
+      "time": 1449449433198,
+      "valueIncreaseRate": 0.10180835,
+      "taxIncreaseRate": 0.060667798,
+      "taxPaid": 9371,
+      "value": 773800
+    },
+    {
+      "time": 1417913433198,
+      "valueIncreaseRate": 0.060075473,
+      "taxIncreaseRate": 0.014933946,
+      "taxPaid": 8835,
+      "value": 702300
+    },
+    {
+      "time": 1386377433198,
+      "valueIncreaseRate": 0.09431781,
+      "taxIncreaseRate": 0.10273626,
+      "taxPaid": 8705,
+      "value": 662500
+    },
+    {
+      "time": 1354841433198,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": 7894,
+      "value": 605400
+    }
+  ],
+  "brokerId": null,
+  "stateId": 26,
+  "streetAddress": "21 Father Francis Gilday St APT 107",
+  "listingSubType": {
+    "is_FSBA": true,
+    "is_comingSoon": false,
+    "is_newHome": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_foreclosure": false,
+    "is_bankOwned": false,
+    "is_openHouse": true,
+    "is_FSBO": false
+  },
+  "solarPotential": null,
+  "dateSold": null,
+  "countyId": 2045,
+  "timeZone": "America/New_York",
+  "homeType": "CONDO",
+  "livingAreaUnits": "sqft",
+  "comingSoonOnMarketDate": null,
+  "rentZestimate": 4450,
+  "bathrooms": 2,
+  "annualHomeownersInsurance": 3780,
+  "state": "MA",
+  "propertyTypeDimension": "Condo",
+  "building": null,
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 0,
+    "zuid": "X1-ZUytfz3zey9gcp_7x5fk",
+    "review_count": 70,
+    "display_name": "Peter Pirani",
+    "profile_url": "https://www.zillow.com/profile/Peter-Pirani/",
+    "business_name": "Leading Edge Real Estate",
+    "rating_average": 5,
+    "phone": null,
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/h_n/ISqtv51ryrao671000000000.jpg"
+  },
+  "yearBuilt": 1864,
+  "brokerageName": "Leading Edge Real Estate",
+  "pageViewCount": 3122,
+  "county": "Suffolk County",
+  "mortgageRates": {
+    "thirtyYearFixedRate": 6.253
+  },
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "mlsName": "MLS PIN",
+    "coAgentLicenseNumber": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Leading Edge Real Estate"
+      }
+    ],
+    "lastUpdated": null,
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "Leading Edge Real Estate",
+    "listingAgreement": null,
+    "infoString10": "",
+    "trueStatus": null,
+    "infoString3": null,
+    "agentEmail": null,
+    "agentName": "Pirani & Wile Group",
+    "attributionTitle": null,
+    "mlsId": "73128880",
+    "coAgentName": "Peter Pirani",
+    "coAgentNumber": "781-608-1805",
+    "infoString5": "781-608-1805",
+    "listingAgents": [
+      {
+        "memberStateLicense": null,
+        "memberFullName": "Pirani & Wile Group",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": null,
+        "memberFullName": "Peter Pirani",
+        "associatedAgentType": "coListAgent"
+      }
+    ],
+    "agentPhoneNumber": "781-608-1805",
+    "agentLicenseNumber": null,
+    "providerLogo": null,
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "",
+    "brokerPhoneNumber": "781-729-5505",
+    "lastChecked": "2023-12-06 16:47:03"
+  },
+  "monthlyHoaFee": 1154,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "latitude": 42.337223,
+  "datePosted": "2023-06-23",
+  "bedrooms": 2,
+  "nearbyHomes": [
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c1fc56b3ee36e66088bc9177c9c02ed-p_c.jpg"
+        }
+      ],
+      "zpid": 81855878,
+      "longitude": -71.07313,
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "21 Father Francis Gilday St APT 406",
+        "zipcode": "02118"
+      },
+      "price": 1085000,
+      "homeType": "CONDO",
+      "homeStatus": "FOR_SALE",
+      "currency": "USD",
+      "latitude": 42.337223
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cb693bf2a25dbd130a49a3f61efe316-p_c.jpg"
+        }
+      ],
+      "zpid": 81856110,
+      "longitude": -71.073204,
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "21 Father Francis Gilday St APT 405",
+        "zipcode": "02118"
+      },
+      "price": 890000,
+      "homeType": "CONDO",
+      "homeStatus": "RECENTLY_SOLD",
+      "currency": "USD",
+      "latitude": 42.337154
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5ac7e487f85eb2c80de689807827a5b-p_c.jpg"
+        }
+      ],
+      "zpid": 81856370,
+      "longitude": -71.073204,
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "21 Father Francis Gilday St APT 205",
+        "zipcode": "02118"
+      },
+      "price": 1150000,
+      "homeType": "CONDO",
+      "homeStatus": "SOLD",
+      "currency": "USD",
+      "latitude": 42.337154
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc409dd98ea56cc382ad8189dd81da6d-p_c.jpg"
+        }
+      ],
+      "zpid": 81856640,
+      "longitude": -71.073204,
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "21 Father Francis Gilday St APT 112",
+        "zipcode": "02118"
+      },
+      "price": 1050000,
+      "homeType": "CONDO",
+      "homeStatus": "SOLD",
+      "currency": "USD",
+      "latitude": 42.337154
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b250373a9234927e7e81b9293c08903-p_c.jpg"
+        }
+      ],
+      "zpid": 2077787918,
+      "longitude": -71.073204,
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "21 Father Francis Gilday St #146",
+        "zipcode": "02118"
+      },
+      "price": 0,
+      "homeType": "CONDO",
+      "homeStatus": "OTHER",
+      "currency": "USD",
+      "latitude": 42.337154
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f269976397a82f0cd4f0477125cec0a-p_c.jpg"
+        }
+      ],
+      "zpid": 2080244980,
+      "longitude": -71.073204,
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "21 Father Francis Gilday St #51",
+        "zipcode": "02118"
+      },
+      "price": 0,
+      "homeType": "APARTMENT",
+      "homeStatus": "OTHER",
+      "currency": "USD",
+      "latitude": 42.337154
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ba14409631ce51d0bb9ca93b3a8f756-p_c.jpg"
+        }
+      ],
+      "zpid": 2080245678,
+      "longitude": -71.073204,
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "21 Father Francis Gilday St #11",
+        "zipcode": "02118"
+      },
+      "price": 0,
+      "homeType": "APARTMENT",
+      "homeStatus": "OTHER",
+      "currency": "USD",
+      "latitude": 42.337154
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7d9807b7ce212b3248a6f6080b82a30-p_c.jpg"
+        }
+      ],
+      "zpid": 81856564,
+      "longitude": -71.073235,
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "21 Father Francis Gilday St APT 305",
+        "zipcode": "02118"
+      },
+      "price": 914900,
+      "homeType": "APARTMENT",
+      "homeStatus": "OTHER",
+      "currency": "USD",
+      "latitude": 42.337353
+    }
+  ],
+  "livingArea": 1257,
+  "priceHistory": [
+    {
+      "priceChangeRate": -0.1000991000991,
+      "date": "2023-11-15",
+      "source": "MLS PIN",
+      "postingIsRental": false,
+      "time": 1700006400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "MLS PIN",
+        "infoString3": null,
+        "infoString1": "73128880"
+      },
+      "pricePerSquareFoot": 716,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 899900
+    },
+    {
+      "priceChangeRate": -0.028183673469388,
+      "date": "2023-10-26",
+      "source": "MLS PIN",
+      "postingIsRental": false,
+      "time": 1698278400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "MLS PIN",
+        "infoString3": null,
+        "infoString1": "73128880"
+      },
+      "pricePerSquareFoot": 796,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 999999
+    },
+    {
+      "priceChangeRate": -0.055096418732782,
+      "date": "2023-08-28",
+      "source": "MLS PIN",
+      "postingIsRental": false,
+      "time": 1693180800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "MLS PIN",
+        "infoString3": null,
+        "infoString1": "73128880"
+      },
+      "pricePerSquareFoot": 819,
+      "buyerAgent": null,
+      "event": "Price change",
+      "price": 1029000
+    },
+    {
+      "priceChangeRate": 0.25895953757225,
+      "date": "2023-06-23",
+      "source": "MLS PIN",
+      "postingIsRental": false,
+      "time": 1687478400000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "MLS PIN",
+        "infoString3": null,
+        "infoString1": "73128880"
+      },
+      "pricePerSquareFoot": 866,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 1089000
+    },
+    {
+      "priceChangeRate": 0.23571428571429,
+      "date": "2013-05-17",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1368748800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 688,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 865000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "2008-05-23",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1211500800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 557,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 700000
+    }
+  ],
+  "favoriteCount": 207,
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/massachusetts/boston/229-Blackstone-Elementary-School/",
+      "rating": 2,
+      "totalCount": null,
+      "distance": 0.3,
+      "assigned": null,
+      "name": "Blackstone Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Primary",
+      "grades": "PK-5",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/massachusetts/boston/281-Hurley-K-8-School/",
+      "rating": 6,
+      "totalCount": null,
+      "distance": 0.3,
+      "assigned": null,
+      "name": "Hurley K-8 School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Primary",
+      "grades": "PK-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/massachusetts/boston/330-William-Mckinley/",
+      "rating": 1,
+      "totalCount": null,
+      "distance": 0.5,
+      "assigned": null,
+      "name": "William Mckinley",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Elementary",
+      "grades": "1-12",
+      "type": "Public"
+    }
+  ],
+  "zestimateHighPercent": "5",
+  "mlsid": "73128880",
+  "countyFIPS": "25025",
+  "city": "Boston",
+  "providerListingID": null,
+  "country": "USA",
+  "currency": "USD",
+  "isListedByOwner": null,
+  "contingentListingType": null
+}

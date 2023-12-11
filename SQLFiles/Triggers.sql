@@ -13,7 +13,7 @@ BEGIN
 END //
 
 DELIMITER ;
-
+/*
 -- Demonstartion of trigger.
 INSERT INTO
     Address (building, street, city, state, country, zipcode)
@@ -36,9 +36,9 @@ VALUES
         '1230',
         'john.doe1996@example.com',
         '1980-01-01',
-        10
+        1
     );
-    
+    */
  
  
  
@@ -60,14 +60,16 @@ END //
 
 DELIMITER ;
 
+/*
 -- Demonstartion of trigger.
 INSERT INTO
     Address (building, street, city, state, country, zipcode)
 VALUES
-    ('111', 'Lower St', 'Springfield', 'StateA', 'CountryX', '12345');
+    ('1251', 'Lower St', 'Springfield', 'StateA', 'CountryX', '12345');
     
     -- Demonstartion of trigger.
 INSERT INTO
     Address (building, street, city, state, country, zipcode)
 VALUES
-    ('111', 'Lower St', 'Springfield', 'StateA', 'CountryX', '12345');
+    ('1251', 'Lower St', 'Springfield', 'StateA', 'CountryX', '12345');
+    */

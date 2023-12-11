@@ -1,0 +1,777 @@
+{
+  "listingProvider": null,
+  "zpid": 59127975,
+  "buildingPermits": null,
+  "propertyTaxRate": 0.67,
+  "contact_recipients": [
+    {
+      "agent_reason": 1,
+      "zpro": null,
+      "recent_sales": 0,
+      "review_count": 6,
+      "display_name": "Popular Properties",
+      "zuid": "X1-ZUxqs8uj58bdhl_40okc",
+      "rating_average": 4.3,
+      "badge_type": "Premier Agent",
+      "phone": {
+        "prefix": "625",
+        "areacode": "508",
+        "number": "7708"
+      },
+      "image_url": "https://photos.zillowstatic.com/h_n/ISzrrndx4imux60000000000.jpg"
+    }
+  ],
+  "zipcode": "02136",
+  "openHouseSchedule": [
+    {
+      "startTime": "2023-12-09 14:00:00",
+      "endTime": "2023-12-09 15:00:00"
+    },
+    {
+      "startTime": "2023-12-10 13:00:00",
+      "endTime": "2023-12-10 14:00:00"
+    }
+  ],
+  "longitude": -71.11554,
+  "zestimateLowPercent": "5",
+  "address": {
+    "community": null,
+    "city": "Hyde Park",
+    "state": "MA",
+    "neighborhood": null,
+    "subdivision": null,
+    "streetAddress": "119 Williams Ave",
+    "zipcode": "02136"
+  },
+  "cityId": 44269,
+  "timeOnZillow": "19 hours",
+  "url": "/homedetails/119-Williams-Ave-Hyde-Park-MA-02136/59127975_zpid/",
+  "zestimate": 617500,
+  "imgSrc": "https://photos.zillowstatic.com/fp/e9e9cf7e35904d71649119895a32a395-p_d.jpg",
+  "description": "Mint condition Boston home in Fairmount Hill,  Hyde Park. The property is well maintained and cared for, featuring gleaming wood floor thruout. Formal dining room, and spacious living room, sun drenched renovated kitchen overlooking the beautiful leveled spacious yard that is perfect for large family / friend gathering and gardening. It is truly urban oasis. 1 half bathroom in the 1st floor is very convenient. 2nd floor has oversized 2 bedrooms and 1 full bathroom. Kitchen was fully renovated in recent year. All infrastructure has been updated and meticulously maintained. Smart Electric Water Heater was installed in 2022. Chimney repointed, capped, and lined in 2022. Insulation in Attic was completely replaced in 2021. New Roof installation for House & Garage in 2021. Exterior siding / windows have been replaced in 2019. 2 Car garage and ample parking spaces make so easy for winter time There is no much to do but move in.",
+  "price": 599000,
+  "livingAreaValue": 1305,
+  "resoFacts": {
+    "hasAttachedProperty": false,
+    "frontageType": null,
+    "poolFeatures": null,
+    "flooring": null,
+    "builderModel": null,
+    "accessibilityFeatures": null,
+    "hasGarage": true,
+    "hasPetsAllowed": null,
+    "bodyType": null,
+    "topography": null,
+    "landLeaseExpirationDate": null,
+    "hasAdditionalParcels": false,
+    "waterViewYN": null,
+    "livingQuarters": {},
+    "totalActualRent": null,
+    "offerReviewDate": null,
+    "horseYN": null,
+    "view": {},
+    "buyerAgencyCompensationType": "%",
+    "rooms": {},
+    "belowGradeFinishedArea": null,
+    "feesAndDues": {},
+    "cityRegion": "Hyde Park",
+    "mainLevelBathrooms": null,
+    "hasPrivatePool": null,
+    "associationFeeIncludes": null,
+    "waterSource": [
+      "Public"
+    ],
+    "carportParkingCapacity": null,
+    "inclusions": null,
+    "hasFireplace": false,
+    "gas": null,
+    "sewer": [
+      "Public Sewer"
+    ],
+    "elevationUnits": null,
+    "roadSurfaceType": null,
+    "subdivisionName": null,
+    "numberOfUnitsVacant": null,
+    "hasWaterfrontView": null,
+    "bathroomsOneQuarter": null,
+    "lotSize": "9,927 sqft",
+    "entryLevel": null,
+    "irrigationWaterRightsAcres": null,
+    "greenWaterConservation": null,
+    "stories": null,
+    "bathrooms": 2,
+    "numberOfUnitsInCommunity": null,
+    "listingTerms": null,
+    "otherParking": null,
+    "associationFee": null,
+    "marketingType": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "heating": [
+      "Forced Air",
+      "Oil"
+    ],
+    "associationPhone": null,
+    "greenBuildingVerificationType": null,
+    "hasAttachedGarage": false,
+    "bedrooms": 2,
+    "architecturalStyle": "Cape",
+    "listingId": null,
+    "structureType": null,
+    "interiorFeatures": null,
+    "horseAmenities": null,
+    "electric": null,
+    "otherFacts": {},
+    "lotFeatures": null,
+    "roofType": null,
+    "constructionMaterials": {},
+    "fireplaceFeatures": null,
+    "hoaFeeTotal": null,
+    "doorFeatures": null,
+    "taxAnnualAmount": 4013,
+    "bathroomsPartial": null,
+    "bathroomsHalf": 1,
+    "daysOnZillow": 0,
+    "listAOR": null,
+    "buildingName": null,
+    "attic": null,
+    "mainLevelBedrooms": null,
+    "elementarySchool": null,
+    "virtualTour": null,
+    "hasCarport": false,
+    "canRaiseHorses": false,
+    "hasLandLease": false,
+    "communityFeatures": null,
+    "yearBuiltEffective": null,
+    "middleOrJuniorSchool": null,
+    "lotSizeDimensions": null,
+    "hasHomeWarranty": false,
+    "entryLocation": null,
+    "yearBuilt": 1955,
+    "propertySubType": [
+      "Single Family Residence"
+    ],
+    "propertyCondition": null,
+    "utilities": null,
+    "parcelNumber": "1340505",
+    "incomeIncludes": null,
+    "highSchool": null,
+    "isNewConstruction": null,
+    "otherStructures": null,
+    "livingArea": "1,305 sqft",
+    "livingAreaRangeUnits": null,
+    "buildingArea": "1,305",
+    "windowFeatures": null,
+    "ownership": null,
+    "woodedArea": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "associationPhone2": null,
+    "isSeniorCommunity": null,
+    "foundationDetails": [
+      "Concrete Perimeter"
+    ],
+    "frontageLength": null,
+    "exteriorFeatures": {},
+    "associationAmenities": null,
+    "buildingFeatures": null,
+    "hasCooling": true,
+    "buildingAreaSource": null,
+    "parkingFeatures": [
+      "Detached",
+      "Paved Drive"
+    ],
+    "foundationArea": null,
+    "zoning": "RES",
+    "hoaFee": null,
+    "livingAreaRange": null,
+    "bathroomsFull": 1,
+    "additionalParcelsDescription": null,
+    "waterBodyName": null,
+    "waterfrontFeatures": null,
+    "aboveGradeFinishedArea": null,
+    "zoningDescription": null,
+    "levels": null,
+    "basementYN": false,
+    "hasView": false,
+    "appliances": null,
+    "securityFeatures": null,
+    "elevation": null,
+    "fencing": null,
+    "greenEnergyEfficient": null,
+    "developmentStatus": null,
+    "ownershipType": null,
+    "garageParkingCapacity": 2,
+    "associations": {},
+    "waterView": null,
+    "laundryFeatures": null,
+    "buyerAgencyCompensation": "2",
+    "basement": "Full,Bulkhead",
+    "additionalFeeInfo": null,
+    "commonWalls": null,
+    "homeType": "SingleFamily",
+    "spaFeatures": null,
+    "municipality": null,
+    "bathroomsThreeQuarter": null,
+    "hasSpa": false,
+    "hasHeating": true,
+    "associationFee2": null,
+    "cooling": [
+      "Central Air"
+    ],
+    "openParkingCapacity": null,
+    "associationName2": null,
+    "hasRentControl": null,
+    "elementarySchoolDistrict": null,
+    "otherEquipment": null,
+    "associationName": null,
+    "specialListingConditions": null,
+    "furnished": false,
+    "vegetation": null,
+    "patioAndPorchFeatures": null,
+    "bathroomsFloat": 2,
+    "builderName": null,
+    "highSchoolDistrict": null,
+    "exclusions": null,
+    "storiesTotal": null,
+    "landLeaseAmount": null,
+    "fireplaces": 0,
+    "availabilityDate": null,
+    "cropsIncludedYN": null,
+    "coveredParkingCapacity": 2,
+    "irrigationWaterRightsYN": null,
+    "hasOpenParking": true,
+    "onMarketDate": 1701820800000,
+    "hasElectricOnProperty": null,
+    "parkingCapacity": 2,
+    "pricePerSquareFoot": 459,
+    "atAGlanceFacts": [
+      {
+        "factValue": "Single Family Residence",
+        "factLabel": "Type"
+      },
+      {
+        "factValue": "1955",
+        "factLabel": "Year Built"
+      },
+      {
+        "factValue": "Forced Air, Oil",
+        "factLabel": "Heating"
+      },
+      {
+        "factValue": "Central Air",
+        "factLabel": "Cooling"
+      },
+      {
+        "factValue": "2 Garage spaces",
+        "factLabel": "Parking"
+      },
+      {
+        "factValue": "9,927 sqft",
+        "factLabel": "Lot"
+      },
+      {
+        "factValue": "0",
+        "factLabel": "Days on Zillow"
+      },
+      {
+        "factValue": "$459",
+        "factLabel": "Price/sqft"
+      },
+      {
+        "factValue": "2",
+        "factLabel": "Buyers Agency Fee"
+      },
+      {
+        "factValue": null,
+        "factLabel": "Offer Review Date"
+      }
+    ],
+    "hasAssociation": false
+  },
+  "taxHistory": [
+    {
+      "time": 1701907253913,
+      "valueIncreaseRate": 0.1,
+      "taxIncreaseRate": 0.08586731,
+      "taxPaid": 6285,
+      "value": 585200
+    },
+    {
+      "time": 1670371253913,
+      "valueIncreaseRate": 0.09577755,
+      "taxIncreaseRate": 0.11737452,
+      "taxPaid": 5788,
+      "value": 532000
+    },
+    {
+      "time": 1638835253913,
+      "valueIncreaseRate": 0.019743752,
+      "taxIncreaseRate": 0.030230708,
+      "taxPaid": 5180,
+      "value": 485500
+    },
+    {
+      "time": 1607299253913,
+      "valueIncreaseRate": 0.13573474,
+      "taxIncreaseRate": 0.13807152,
+      "taxPaid": 5028,
+      "value": 476100
+    },
+    {
+      "time": 1575676853913,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0.0056908717,
+      "taxPaid": 4418,
+      "value": 419200
+    },
+    {
+      "time": 1544140853913,
+      "valueIncreaseRate": 0.040198512,
+      "taxIncreaseRate": 7.802549,
+      "taxPaid": 4393,
+      "value": 419200
+    },
+    {
+      "time": 1512604853913,
+      "valueIncreaseRate": 0.1200667,
+      "taxIncreaseRate": -0.873911,
+      "taxPaid": 499.06,
+      "value": 403000
+    },
+    {
+      "time": 1481068853913,
+      "valueIncreaseRate": 0.22673032,
+      "taxIncreaseRate": 0.1143018,
+      "taxPaid": 3958,
+      "value": 359800
+    },
+    {
+      "time": 1449446453913,
+      "valueIncreaseRate": 0.020173913,
+      "taxIncreaseRate": -0.05982001,
+      "taxPaid": 3552,
+      "value": 293300
+    },
+    {
+      "time": 1386374453913,
+      "valueIncreaseRate": 0.012323944,
+      "taxIncreaseRate": 0.020253848,
+      "taxPaid": 3778,
+      "value": 287500
+    },
+    {
+      "time": 1354838453913,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0.019548459,
+      "taxPaid": 3703,
+      "value": 284000
+    },
+    {
+      "time": 1323216053913,
+      "valueIncreaseRate": -0.025394646,
+      "taxIncreaseRate": 0.049104564,
+      "taxPaid": 3632,
+      "value": 284000
+    },
+    {
+      "time": 1291680053913,
+      "valueIncreaseRate": -0.06722151,
+      "taxIncreaseRate": 0.042457093,
+      "taxPaid": 3462,
+      "value": 291400
+    },
+    {
+      "time": 1260144053913,
+      "valueIncreaseRate": -0.06382979,
+      "taxIncreaseRate": -0.0928708,
+      "taxPaid": 3321,
+      "value": 312400
+    },
+    {
+      "time": 1228608053913,
+      "valueIncreaseRate": -0.042742398,
+      "taxIncreaseRate": -0.04437484,
+      "taxPaid": 3661,
+      "value": 333700
+    },
+    {
+      "time": 1196985653913,
+      "valueIncreaseRate": 0,
+      "taxIncreaseRate": 0,
+      "taxPaid": 3831,
+      "value": 348600
+    }
+  ],
+  "brokerId": null,
+  "stateId": 26,
+  "streetAddress": "119 Williams Ave",
+  "listingSubType": {
+    "is_FSBA": true,
+    "is_comingSoon": false,
+    "is_newHome": false,
+    "is_pending": false,
+    "is_forAuction": false,
+    "is_foreclosure": false,
+    "is_bankOwned": false,
+    "is_openHouse": true,
+    "is_FSBO": false
+  },
+  "solarPotential": null,
+  "dateSold": null,
+  "countyId": 2045,
+  "timeZone": "America/New_York",
+  "homeType": "SINGLE_FAMILY",
+  "livingAreaUnits": "sqft",
+  "comingSoonOnMarketDate": null,
+  "rentZestimate": 3399,
+  "bathrooms": 2,
+  "annualHomeownersInsurance": 2516,
+  "state": "MA",
+  "propertyTypeDimension": "Single Family",
+  "building": null,
+  "listed_by": {
+    "agent_reason": 3,
+    "zpro": false,
+    "recent_sales": 1,
+    "zuid": "X1-ZUxt5wyqsvwydl_282em",
+    "review_count": 43,
+    "display_name": "Nao Rouhana",
+    "profile_url": "https://www.zillow.com/profile/NaoRouhanaRealEstate/",
+    "business_name": "eXp Realty",
+    "rating_average": 5,
+    "phone": null,
+    "badge_type": "Listing Agent",
+    "image_url": "https://photos.zillowstatic.com/h_n/IS7eqfmlkpwafp1000000000.jpg"
+  },
+  "yearBuilt": 1955,
+  "brokerageName": "eXp Realty",
+  "pageViewCount": 212,
+  "county": "Suffolk County",
+  "mortgageRates": {
+    "thirtyYearFixedRate": 6.309
+  },
+  "attributionInfo": {
+    "buyerAgentName": null,
+    "mlsName": "MLS PIN",
+    "coAgentLicenseNumber": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "eXp Realty"
+      }
+    ],
+    "lastUpdated": null,
+    "buyerAgentMemberStateLicense": null,
+    "brokerName": "eXp Realty",
+    "listingAgreement": null,
+    "infoString10": "",
+    "trueStatus": null,
+    "infoString3": null,
+    "agentEmail": null,
+    "agentName": "Nao Rouhana",
+    "attributionTitle": null,
+    "mlsId": "73185627",
+    "coAgentName": "Nao Rouhana",
+    "coAgentNumber": "617-372-7221",
+    "infoString5": "617-372-7221",
+    "listingAgents": [
+      {
+        "memberStateLicense": null,
+        "memberFullName": "Nao Rouhana",
+        "associatedAgentType": "listAgent"
+      },
+      {
+        "memberStateLicense": null,
+        "memberFullName": "Nao Rouhana",
+        "associatedAgentType": "coListAgent"
+      }
+    ],
+    "agentPhoneNumber": "617-372-7221",
+    "agentLicenseNumber": null,
+    "providerLogo": null,
+    "infoString16": null,
+    "buyerBrokerageName": null,
+    "mlsDisclaimer": "",
+    "brokerPhoneNumber": "888-854-7493",
+    "lastChecked": "2023-12-06 15:53:06"
+  },
+  "monthlyHoaFee": null,
+  "homeStatus": "FOR_SALE",
+  "homeFacts": null,
+  "latitude": 42.246765,
+  "datePosted": "2023-12-06",
+  "bedrooms": 2,
+  "nearbyHomes": [
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/234e7664c299c6719d9b4dc728bdfa51-p_c.jpg"
+        }
+      ],
+      "zpid": 59127974,
+      "longitude": -71.11577,
+      "address": {
+        "city": "Hyde Park",
+        "state": "MA",
+        "streetAddress": "115 Williams Ave",
+        "zipcode": "02136"
+      },
+      "price": 591200,
+      "homeType": "SINGLE_FAMILY",
+      "homeStatus": "OTHER",
+      "currency": "USD",
+      "latitude": 42.246864
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=123+Williams+Ave%2C+Hyde+Park%2C+MA+02136&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=vmHu4aCnKyXnHus6f2IZcrKBiI8="
+        }
+      ],
+      "zpid": 59127976,
+      "longitude": -71.11554,
+      "address": {
+        "city": "Hyde Park",
+        "state": "MA",
+        "streetAddress": "123 Williams Ave",
+        "zipcode": "02136"
+      },
+      "price": 572900,
+      "homeType": "SINGLE_FAMILY",
+      "homeStatus": "OTHER",
+      "currency": "USD",
+      "latitude": 42.246548
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=111+Williams+Ave%2C+Hyde+Park%2C+MA+02136&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=EfrCYEzi28U6dyw0WXx8S_SvZS8="
+        }
+      ],
+      "zpid": 59127973,
+      "longitude": -71.115906,
+      "address": {
+        "city": "Hyde Park",
+        "state": "MA",
+        "streetAddress": "111 Williams Ave",
+        "zipcode": "02136"
+      },
+      "price": 571700,
+      "homeType": "SINGLE_FAMILY",
+      "homeStatus": "OTHER",
+      "currency": "USD",
+      "latitude": 42.247005
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9fea318c81b66defef64f0ea5f5a713-p_c.jpg"
+        }
+      ],
+      "zpid": 59129583,
+      "longitude": -71.115036,
+      "address": {
+        "city": "Hyde Park",
+        "state": "MA",
+        "streetAddress": "124 Williams Ave",
+        "zipcode": "02136"
+      },
+      "price": 627200,
+      "homeType": "SINGLE_FAMILY",
+      "homeStatus": "OTHER",
+      "currency": "USD",
+      "latitude": 42.246857
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=120+Williams+Ave%2C+Hyde+Park%2C+MA+02136&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=rrtk3oQZwHBPGfR-9eQD0gz06QQ="
+        }
+      ],
+      "zpid": 59129584,
+      "longitude": -71.11515,
+      "address": {
+        "city": "Hyde Park",
+        "state": "MA",
+        "streetAddress": "120 Williams Ave",
+        "zipcode": "02136"
+      },
+      "price": 580600,
+      "homeType": "SINGLE_FAMILY",
+      "homeStatus": "OTHER",
+      "currency": "USD",
+      "latitude": 42.24702
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/82b7d0304b653d2885be9e0c8d19fa0c-p_c.jpg"
+        }
+      ],
+      "zpid": 59127977,
+      "longitude": -71.11535,
+      "address": {
+        "city": "Hyde Park",
+        "state": "MA",
+        "streetAddress": "127 Williams Ave",
+        "zipcode": "02136"
+      },
+      "price": 685000,
+      "homeType": "SINGLE_FAMILY",
+      "homeStatus": "SOLD",
+      "currency": "USD",
+      "latitude": 42.2464
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=116+Williams+Ave%2C+Hyde+Park%2C+MA+02136&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=UivEH6c1SVNqFfYjvEFDqSt3LAE="
+        }
+      ],
+      "zpid": 59129585,
+      "longitude": -71.11528,
+      "address": {
+        "city": "Hyde Park",
+        "state": "MA",
+        "streetAddress": "116 Williams Ave",
+        "zipcode": "02136"
+      },
+      "price": 639400,
+      "homeType": "SINGLE_FAMILY",
+      "homeStatus": "OTHER",
+      "currency": "USD",
+      "latitude": 42.24718
+    },
+    {
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/367656acc037a75094c3e026ecf30123-p_c.jpg"
+        }
+      ],
+      "zpid": 59129582,
+      "longitude": -71.11493,
+      "address": {
+        "city": "Hyde Park",
+        "state": "MA",
+        "streetAddress": "128 Williams Ave",
+        "zipcode": "02136"
+      },
+      "price": 618500,
+      "homeType": "SINGLE_FAMILY",
+      "homeStatus": "OTHER",
+      "currency": "USD",
+      "latitude": 42.246685
+    }
+  ],
+  "livingArea": 1305,
+  "priceHistory": [
+    {
+      "priceChangeRate": 0.71142857142857,
+      "date": "2023-12-06",
+      "source": "MLS PIN",
+      "postingIsRental": false,
+      "time": 1701820800000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "MLS PIN",
+        "infoString3": null,
+        "infoString1": "73185627"
+      },
+      "pricePerSquareFoot": 459,
+      "buyerAgent": null,
+      "event": "Listed for sale",
+      "price": 599000
+    },
+    {
+      "priceChangeRate": 1.734375,
+      "date": "2004-07-30",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 1091145600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 268,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 350000
+    },
+    {
+      "priceChangeRate": 0,
+      "date": "1995-11-20",
+      "source": "Public Record",
+      "postingIsRental": false,
+      "time": 816825600000,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "attributeSource": {
+        "infoString2": "Public Record",
+        "infoString3": null,
+        "infoString1": null
+      },
+      "pricePerSquareFoot": 98,
+      "buyerAgent": null,
+      "event": "Sold",
+      "price": 128000
+    }
+  ],
+  "favoriteCount": 14,
+  "schools": [
+    {
+      "link": "https://www.greatschools.org/massachusetts/boston/256-Franklin-D.-Roosevelt-K-8-School/",
+      "rating": 3,
+      "totalCount": null,
+      "distance": 0.5,
+      "assigned": null,
+      "name": "Franklin D. Roosevelt K-8 School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Primary",
+      "grades": "PK-8",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/massachusetts/boston/327-Channing-Elementary-School/",
+      "rating": 4,
+      "totalCount": null,
+      "distance": 1,
+      "assigned": null,
+      "name": "Channing Elementary School",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "Primary",
+      "grades": "PK-6",
+      "type": "Public"
+    },
+    {
+      "link": "https://www.greatschools.org/massachusetts/boston/2690-Boston-Community-Leadership-Academy/",
+      "rating": 2,
+      "totalCount": null,
+      "distance": 1.1,
+      "assigned": null,
+      "name": "Boston Community Leadership Academy",
+      "studentsPerTeacher": null,
+      "isAssigned": null,
+      "size": null,
+      "level": "High",
+      "grades": "9-12",
+      "type": "Public"
+    }
+  ],
+  "zestimateHighPercent": "5",
+  "mlsid": "73185627",
+  "countyFIPS": "25025",
+  "city": "Hyde Park",
+  "providerListingID": null,
+  "country": "USA",
+  "currency": "USD",
+  "isListedByOwner": null,
+  "contingentListingType": null
+}
