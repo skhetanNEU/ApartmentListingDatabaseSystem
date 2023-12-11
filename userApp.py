@@ -339,6 +339,15 @@ class DatabaseManager:
         if results:
             for row in results:
                 print(row)
+                
+    '''
+    *********************************
+    *********************************
+                PLOT
+    *********************************
+    *********************************
+    '''
+    
 
     def plot_number_of_listings_by_state(self):
         """
@@ -486,6 +495,8 @@ def main():
     '''
     
     db_manager.plot_number_of_listings_by_state()
+    
+    db_manager.plot_number_of_listings_by_owner()
 
     # Close the database connection
     db_manager.close()
